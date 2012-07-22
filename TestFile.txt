@@ -1,3 +1,0 @@
-TestFile.txt
-
-Test adding a file from a cloned directory
